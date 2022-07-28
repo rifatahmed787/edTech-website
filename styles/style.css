@@ -4,6 +4,7 @@ body {
 
 .gradient-img {
     filter: brightness(60%);
+    height: 75%;
 }
 
 .image-height {
@@ -12,4 +13,8 @@ body {
 
 .image-width {
     width: 10%;
+}
+
+.content {
+    margin-top: 100px;
 }
