@@ -9,3 +9,7 @@ body {
 .image-height {
     height: 700px;
 }
+
+.image-width {
+    width: 10%;
+}
