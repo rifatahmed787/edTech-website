@@ -1,3 +1,11 @@
 body {
     background-color: #FFFFFF;
 }
+
+.gradient-img {
+    filter: brightness(60%);
+}
+
+.image-height {
+    height: 700px;
+}
